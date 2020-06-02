@@ -1,0 +1,15 @@
+.banner{
+    position: relative;
+    background: url('https://miro.medium.com/max/3184/1*rHOvCguCzH85rXttygB0qw.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 180px;
+    width: 100%;
+    padding: 15px;
+    
+    .info-banner{
+        position: absolute;
+        bottom: 15px;
+    }
+}

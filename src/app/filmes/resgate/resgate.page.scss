@@ -1,0 +1,16 @@
+.banner{
+    position: relative;
+    background: url('https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABc9kv5fGhGkDWeqj9_1WWmvuetxkoUBAwPC9jlyz9NEaYoeyRZAGyjG96-tkzNA8WQhPXnwAXcIgcukTtRY-xt8uII6zaSMrbRFthN718idomnnw013u8zPbI0QHdA.jpg?r=426');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 180px;
+    width: 100%;
+    padding: 15px;
+    
+    .info-banner{
+        position: absolute;
+        bottom: 15px;
+        
+    }
+}
